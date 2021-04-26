@@ -1,0 +1,18 @@
+{
+  "author": "chenchanghong",
+  "classifications": [
+    "Web",
+    "WebAPI"
+  ],
+  "name": "ASP.NET Core Web API - Serilog",
+  "generatorVersions": "[1.0.0.0-*)",
+  "description": "A project template for creating an ASP.NET Core application with an example Controller for a RESTful HTTP service, swagger, serilog and health check. ",
+  "identity": "WebAPI-Serilog",
+  "shortName": "webapi-serilog",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "WebApi-Serilog",
+  "preferNameDirectory": true,
+}
